@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ale.panel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>AlePanel</name>
+    <description>Aplikasi Panel Pterodactyl AleCaesar</description>
+    <author email="dev@ale.com">AleCaesar</author>
+
+    <content src="index.html" />
+
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-navigation href="https://chatgpt.com/*" />
+
+    <preference name="Fullscreen" value="true" />
+</widget>
